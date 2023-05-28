@@ -1,8 +1,8 @@
-Figure showing molocule pattern from an actual experiemnt as published in Nature Nanotechnology March 2012.
-The paper describes how the concept of wave-particle duality is applied to predict how massive particles can produce interference patterns.
+A pattern formed by molecules undergoing quantum scattering in an experiemnt at the Vienna Center of Quantum Science and Technology, University of Vienna, published in Nature Nanotechnology March 2012.
+The experiment demonstrates how massive particles produce interference patterns consistent with the quantum principle of wave-particle duality.
 A feature of this experiment is that it shows how such patterns form one particle at a time.
-A beam of molecules is produced by evaporation of a molecular coating by a laser. 
-A 3μm collimation slit produces a narrow beam. 
-About 500mm from the collimation slit, the particles are incident on a grating with 100nm aperture spacing.
-The scattered beam hits a target a further 560mm from the grating, where the molecules are illumated by an infrared laser. 
-The infrared laser induces the depositied molecules to fluoresce, and the resulting pattern is imaged by a CCD camera. 
+The molecular source utilses a laser that evaporates molecules off a thin molecular coating on a window inside a vacuum chamber. 
+A 3μm collimation slit filters the molecuels into a narrow beam. 
+After about 500mm (L1), the particles are incident on a grating with 100nm aperture spacing.
+After another 560mm (L2), the scattered beam is deposited on a target window where the molecules are illumated by an infrared laser. 
+Under the infrared laser the deposited molecules fluoresce, and the resulting pattern is imaged by a CCD camera. 
